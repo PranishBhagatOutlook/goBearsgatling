@@ -1,0 +1,10 @@
+{
+  "simulation": "gatling.sample.User1",
+  "simulationId": "user1",
+  "start": 1670137362292,
+  "description": "ret",
+  "scenarios": ["User1"],
+  "assertions": [
+
+  ]
+}

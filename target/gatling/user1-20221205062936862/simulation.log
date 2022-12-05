@@ -1,0 +1,601 @@
+RUN	gatling.sample.User1	user1	1670221776862	rub	3.6.1
+USER	Scenerio1	START	1670221778560
+REQUEST		AllResources	1670221778586	1670221778605	KO	j.n.ConnectException: Connection refused
+USER	Scenerio1	START	1670221778651
+REQUEST		AllResources	1670221778651	1670221778655	KO	j.n.ConnectException: Connection refused
+USER	Scenerio1	START	1670221778751
+REQUEST		AllResources	1670221778754	1670221778757	KO	j.n.ConnectException: Connection refused
+USER	Scenerio1	START	1670221778853
+REQUEST		AllResources	1670221778854	1670221778860	KO	j.n.ConnectException: Connection refused
+USER	Scenerio1	START	1670221778958
+REQUEST		AllResources	1670221778959	1670221778963	KO	j.n.ConnectException: Connection refused
+USER	Scenerio1	START	1670221779056
+REQUEST		AllResources	1670221779056	1670221779064	KO	j.n.ConnectException: Connection refused
+USER	Scenerio1	START	1670221779158
+REQUEST		AllResources	1670221779160	1670221779169	KO	j.n.ConnectException: Connection refused
+USER	Scenerio1	START	1670221779260
+REQUEST		AllResources	1670221779261	1670221779267	KO	j.n.ConnectException: Connection refused
+USER	Scenerio1	START	1670221779359
+REQUEST		AllResources	1670221779361	1670221779371	KO	j.n.ConnectException: Connection refused
+USER	Scenerio1	START	1670221779458
+REQUEST		AllResources	1670221779460	1670221779468	KO	j.n.ConnectException: Connection refused
+USER	Scenerio1	START	1670221779559
+REQUEST		AllResources	1670221779560	1670221779580	KO	j.n.ConnectException: Connection refused
+USER	Scenerio1	START	1670221779659
+REQUEST		AllResources	1670221779661	1670221779669	KO	j.n.ConnectException: Connection refused
+USER	Scenerio1	START	1670221779759
+REQUEST		AllResources	1670221779760	1670221779762	KO	j.n.ConnectException: Connection refused
+USER	Scenerio1	START	1670221779858
+REQUEST		AllResources	1670221779859	1670221779861	KO	j.n.ConnectException: Connection refused
+USER	Scenerio1	START	1670221779962
+REQUEST		AllResources	1670221779965	1670221779968	KO	j.n.ConnectException: Connection refused
+USER	Scenerio1	START	1670221780062
+REQUEST		AllResources	1670221780062	1670221780070	KO	j.n.ConnectException: Connection refused
+USER	Scenerio1	START	1670221780162
+REQUEST		AllResources	1670221780164	1670221780170	KO	j.n.ConnectException: Connection refused
+USER	Scenerio1	START	1670221780263
+REQUEST		AllResources	1670221780265	1670221780272	KO	j.n.ConnectException: Connection refused
+USER	Scenerio1	START	1670221780362
+REQUEST		AllResources	1670221780365	1670221780375	KO	j.n.ConnectException: Connection refused
+USER	Scenerio1	START	1670221780464
+REQUEST		AllResources	1670221780467	1670221780474	KO	j.n.ConnectException: Connection refused
+USER	Scenerio1	START	1670221780562
+REQUEST		AllResources	1670221780566	1670221780573	KO	j.n.ConnectException: Connection refused
+USER	Scenerio1	START	1670221780640
+REQUEST		AllResources	1670221780642	1670221780654	KO	j.n.ConnectException: Connection refused
+USER	Scenerio1	START	1670221780739
+REQUEST		AllResources	1670221780740	1670221780744	KO	j.n.ConnectException: Connection refused
+USER	Scenerio1	START	1670221780843
+REQUEST		AllResources	1670221780845	1670221780856	KO	j.n.ConnectException: Connection refused
+USER	Scenerio1	START	1670221780940
+REQUEST		AllResources	1670221780942	1670221780955	KO	j.n.ConnectException: Connection refused
+USER	Scenerio1	START	1670221781040
+REQUEST		AllResources	1670221781041	1670221781043	KO	j.n.ConnectException: Connection refused
+USER	Scenerio1	START	1670221781142
+REQUEST		AllResources	1670221781144	1670221781147	KO	j.n.ConnectException: Connection refused
+USER	Scenerio1	START	1670221781239
+REQUEST		AllResources	1670221781240	1670221781244	KO	j.n.ConnectException: Connection refused
+USER	Scenerio1	START	1670221781342
+REQUEST		AllResources	1670221781347	1670221781355	KO	j.n.ConnectException: Connection refused
+USER	Scenerio1	START	1670221781441
+REQUEST		AllResources	1670221781445	1670221781454	KO	j.n.ConnectException: Connection refused
+USER	Scenerio1	START	1670221781543
+REQUEST		AllResources	1670221781545	1670221781555	KO	j.n.ConnectException: Connection refused
+REQUEST		SpecificResource	1670221781617	1670221781626	KO	j.n.ConnectException: Connection refused
+USER	Scenerio1	START	1670221781639
+REQUEST		AllResources	1670221781640	1670221781643	KO	j.n.ConnectException: Connection refused
+REQUEST		SpecificResource	1670221781660	1670221781665	KO	j.n.ConnectException: Connection refused
+USER	Scenerio1	START	1670221781740
+REQUEST		AllResources	1670221781741	1670221781746	KO	j.n.ConnectException: Connection refused
+REQUEST		SpecificResource	1670221781759	1670221781761	KO	j.n.ConnectException: Connection refused
+USER	Scenerio1	START	1670221781840
+REQUEST		AllResources	1670221781841	1670221781846	KO	j.n.ConnectException: Connection refused
+REQUEST		SpecificResource	1670221781863	1670221781865	KO	j.n.ConnectException: Connection refused
+USER	Scenerio1	START	1670221781940
+REQUEST		AllResources	1670221781940	1670221781944	KO	j.n.ConnectException: Connection refused
+REQUEST		SpecificResource	1670221781965	1670221781970	KO	j.n.ConnectException: Connection refused
+USER	Scenerio1	START	1670221782040
+REQUEST		AllResources	1670221782040	1670221782047	KO	j.n.ConnectException: Connection refused
+REQUEST		SpecificResource	1670221782068	1670221782070	KO	j.n.ConnectException: Connection refused
+USER	Scenerio1	START	1670221782140
+REQUEST		AllResources	1670221782140	1670221782148	KO	j.n.ConnectException: Connection refused
+REQUEST		SpecificResource	1670221782172	1670221782177	KO	j.n.ConnectException: Connection refused
+USER	Scenerio1	START	1670221782240
+REQUEST		AllResources	1670221782241	1670221782243	KO	j.n.ConnectException: Connection refused
+REQUEST		SpecificResource	1670221782273	1670221782275	KO	j.n.ConnectException: Connection refused
+USER	Scenerio1	START	1670221782340
+REQUEST		AllResources	1670221782340	1670221782344	KO	j.n.ConnectException: Connection refused
+REQUEST		SpecificResource	1670221782375	1670221782387	KO	j.n.ConnectException: Connection refused
+USER	Scenerio1	START	1670221782440
+REQUEST		AllResources	1670221782441	1670221782446	KO	j.n.ConnectException: Connection refused
+REQUEST		SpecificResource	1670221782470	1670221782473	KO	j.n.ConnectException: Connection refused
+USER	Scenerio1	START	1670221782541
+REQUEST		AllResources	1670221782546	1670221782566	KO	j.n.ConnectException: Connection refused
+REQUEST		SpecificResource	1670221782584	1670221782586	KO	j.n.ConnectException: Connection refused
+USER	Scenerio1	START	1670221782639
+REQUEST		ReserveResource	1670221782638	1670221782646	KO	j.n.ConnectException: Connection refused
+REQUEST		AllResources	1670221782642	1670221782648	KO	j.n.ConnectException: Connection refused
+REQUEST		ReserveResource	1670221782669	1670221782672	KO	j.n.ConnectException: Connection refused
+REQUEST		SpecificResource	1670221782676	1670221782683	KO	j.n.ConnectException: Connection refused
+USER	Scenerio1	START	1670221782740
+REQUEST		AllResources	1670221782741	1670221782743	KO	j.n.ConnectException: Connection refused
+REQUEST		SpecificResource	1670221782765	1670221782768	KO	j.n.ConnectException: Connection refused
+REQUEST		ReserveResource	1670221782765	1670221782767	KO	j.n.ConnectException: Connection refused
+USER	Scenerio1	START	1670221782841
+REQUEST		AllResources	1670221782842	1670221782844	KO	j.n.ConnectException: Connection refused
+REQUEST		SpecificResource	1670221782867	1670221782872	KO	j.n.ConnectException: Connection refused
+REQUEST		ReserveResource	1670221782870	1670221782875	KO	j.n.ConnectException: Connection refused
+USER	Scenerio1	START	1670221782943
+REQUEST		AllResources	1670221782944	1670221782947	KO	j.n.ConnectException: Connection refused
+REQUEST		SpecificResource	1670221782972	1670221782976	KO	j.n.ConnectException: Connection refused
+REQUEST		ReserveResource	1670221782974	1670221782983	KO	j.n.ConnectException: Connection refused
+USER	Scenerio1	START	1670221783042
+REQUEST		AllResources	1670221783043	1670221783047	KO	j.n.ConnectException: Connection refused
+REQUEST		ReserveResource	1670221783074	1670221783081	KO	j.n.ConnectException: Connection refused
+REQUEST		SpecificResource	1670221783074	1670221783081	KO	j.n.ConnectException: Connection refused
+USER	Scenerio1	START	1670221783144
+REQUEST		AllResources	1670221783145	1670221783148	KO	j.n.ConnectException: Connection refused
+REQUEST		SpecificResource	1670221783178	1670221783179	KO	j.n.ConnectException: Connection refused
+REQUEST		ReserveResource	1670221783180	1670221783181	KO	j.n.ConnectException: Connection refused
+USER	Scenerio1	START	1670221783243
+REQUEST		AllResources	1670221783244	1670221783249	KO	j.n.ConnectException: Connection refused
+REQUEST		SpecificResource	1670221783280	1670221783286	KO	j.n.ConnectException: Connection refused
+REQUEST		ReserveResource	1670221783284	1670221783287	KO	j.n.ConnectException: Connection refused
+USER	Scenerio1	START	1670221783343
+REQUEST		AllResources	1670221783344	1670221783346	KO	j.n.ConnectException: Connection refused
+REQUEST		SpecificResource	1670221783379	1670221783381	KO	j.n.ConnectException: Connection refused
+REQUEST		ReserveResource	1670221783389	1670221783390	KO	j.n.ConnectException: Connection refused
+USER	Scenerio1	START	1670221783443
+REQUEST		AllResources	1670221783444	1670221783447	KO	j.n.ConnectException: Connection refused
+REQUEST		ReserveResource	1670221783475	1670221783477	KO	j.n.ConnectException: Connection refused
+REQUEST		SpecificResource	1670221783480	1670221783481	KO	j.n.ConnectException: Connection refused
+USER	Scenerio1	START	1670221783544
+REQUEST		AllResources	1670221783545	1670221783557	KO	j.n.ConnectException: Connection refused
+REQUEST		SpecificResource	1670221783577	1670221783578	KO	j.n.ConnectException: Connection refused
+REQUEST		ReserveResource	1670221783590	1670221783591	KO	j.n.ConnectException: Connection refused
+USER	Scenerio1	START	1670221783639
+REQUEST		AllResources	1670221783639	1670221783640	KO	j.n.ConnectException: Connection refused
+REQUEST		GetAllotment	1670221783650	1670221783652	KO	j.n.ConnectException: Connection refused
+USER	Scenerio1	END	1670221783655
+REQUEST		SpecificResource	1670221783656	1670221783661	KO	j.n.ConnectException: Connection refused
+REQUEST		GetAllotment	1670221783675	1670221783677	KO	j.n.ConnectException: Connection refused
+USER	Scenerio1	END	1670221783677
+REQUEST		ReserveResource	1670221783685	1670221783686	KO	j.n.ConnectException: Connection refused
+USER	Scenerio1	START	1670221783743
+REQUEST		AllResources	1670221783743	1670221783745	KO	j.n.ConnectException: Connection refused
+REQUEST		SpecificResource	1670221783746	1670221783747	KO	j.n.ConnectException: Connection refused
+REQUEST		GetAllotment	1670221783775	1670221783776	KO	j.n.ConnectException: Connection refused
+REQUEST		ReserveResource	1670221783775	1670221783776	KO	j.n.ConnectException: Connection refused
+USER	Scenerio1	END	1670221783777
+USER	Scenerio1	START	1670221783844
+REQUEST		AllResources	1670221783844	1670221783850	KO	j.n.ConnectException: Connection refused
+REQUEST		SpecificResource	1670221783859	1670221783862	KO	j.n.ConnectException: Connection refused
+REQUEST		ReserveResource	1670221783875	1670221783877	KO	j.n.ConnectException: Connection refused
+REQUEST		GetAllotment	1670221783877	1670221783882	KO	j.n.ConnectException: Connection refused
+USER	Scenerio1	END	1670221783883
+USER	Scenerio1	START	1670221783943
+REQUEST		AllResources	1670221783944	1670221783949	KO	j.n.ConnectException: Connection refused
+REQUEST		SpecificResource	1670221783959	1670221783961	KO	j.n.ConnectException: Connection refused
+REQUEST		ReserveResource	1670221783979	1670221783981	KO	j.n.ConnectException: Connection refused
+REQUEST		GetAllotment	1670221783985	1670221783986	KO	j.n.ConnectException: Connection refused
+USER	Scenerio1	END	1670221783986
+USER	Scenerio1	START	1670221784044
+REQUEST		AllResources	1670221784044	1670221784046	KO	j.n.ConnectException: Connection refused
+REQUEST		SpecificResource	1670221784046	1670221784048	KO	j.n.ConnectException: Connection refused
+REQUEST		ReserveResource	1670221784083	1670221784086	KO	j.n.ConnectException: Connection refused
+REQUEST		GetAllotment	1670221784084	1670221784086	KO	j.n.ConnectException: Connection refused
+USER	Scenerio1	END	1670221784087
+USER	Scenerio1	START	1670221784143
+REQUEST		AllResources	1670221784144	1670221784146	KO	j.n.ConnectException: Connection refused
+REQUEST		SpecificResource	1670221784150	1670221784151	KO	j.n.ConnectException: Connection refused
+REQUEST		ReserveResource	1670221784181	1670221784182	KO	j.n.ConnectException: Connection refused
+REQUEST		GetAllotment	1670221784183	1670221784185	KO	j.n.ConnectException: Connection refused
+USER	Scenerio1	END	1670221784185
+USER	Scenerio1	START	1670221784243
+REQUEST		AllResources	1670221784244	1670221784246	KO	j.n.ConnectException: Connection refused
+REQUEST		SpecificResource	1670221784250	1670221784252	KO	j.n.ConnectException: Connection refused
+REQUEST		ReserveResource	1670221784289	1670221784290	KO	j.n.ConnectException: Connection refused
+REQUEST		GetAllotment	1670221784289	1670221784291	KO	j.n.ConnectException: Connection refused
+USER	Scenerio1	END	1670221784291
+USER	Scenerio1	START	1670221784343
+REQUEST		AllResources	1670221784344	1670221784346	KO	j.n.ConnectException: Connection refused
+REQUEST		SpecificResource	1670221784358	1670221784360	KO	j.n.ConnectException: Connection refused
+REQUEST		ReserveResource	1670221784384	1670221784386	KO	j.n.ConnectException: Connection refused
+REQUEST		GetAllotment	1670221784393	1670221784395	KO	j.n.ConnectException: Connection refused
+USER	Scenerio1	END	1670221784396
+USER	Scenerio1	START	1670221784444
+REQUEST		AllResources	1670221784445	1670221784451	KO	j.n.ConnectException: Connection refused
+REQUEST		SpecificResource	1670221784458	1670221784460	KO	j.n.ConnectException: Connection refused
+REQUEST		GetAllotment	1670221784480	1670221784481	KO	j.n.ConnectException: Connection refused
+USER	Scenerio1	END	1670221784481
+REQUEST		ReserveResource	1670221784484	1670221784487	KO	j.n.ConnectException: Connection refused
+USER	Scenerio1	START	1670221784547
+REQUEST		AllResources	1670221784549	1670221784554	KO	j.n.ConnectException: Connection refused
+REQUEST		SpecificResource	1670221784559	1670221784560	KO	j.n.ConnectException: Connection refused
+REQUEST		ReserveResource	1670221784581	1670221784582	KO	j.n.ConnectException: Connection refused
+REQUEST		GetAllotment	1670221784593	1670221784596	KO	j.n.ConnectException: Connection refused
+USER	Scenerio1	END	1670221784597
+USER	Scenerio1	START	1670221784638
+REQUEST		AllResources	1670221784639	1670221784641	KO	j.n.ConnectException: Connection refused
+REQUEST		SpecificResource	1670221784648	1670221784652	KO	j.n.ConnectException: Connection refused
+REQUEST		ReserveResource	1670221784664	1670221784666	KO	j.n.ConnectException: Connection refused
+REQUEST		GetAllotment	1670221784689	1670221784700	KO	j.n.ConnectException: Connection refused
+USER	Scenerio1	END	1670221784700
+USER	Scenerio1	START	1670221784743
+REQUEST		SpecificResource	1670221784750	1670221784752	KO	j.n.ConnectException: Connection refused
+REQUEST		AllResources	1670221784744	1670221784749	KO	j.n.ConnectException: Connection refused
+REQUEST		ReserveResource	1670221784750	1670221784752	KO	j.n.ConnectException: Connection refused
+REQUEST		GetAllotment	1670221784779	1670221784780	KO	j.n.ConnectException: Connection refused
+USER	Scenerio1	END	1670221784780
+USER	Scenerio1	START	1670221784843
+REQUEST		AllResources	1670221784843	1670221784845	KO	j.n.ConnectException: Connection refused
+REQUEST		SpecificResource	1670221784848	1670221784849	KO	j.n.ConnectException: Connection refused
+REQUEST		ReserveResource	1670221784863	1670221784864	KO	j.n.ConnectException: Connection refused
+REQUEST		GetAllotment	1670221784879	1670221784880	KO	j.n.ConnectException: Connection refused
+USER	Scenerio1	END	1670221784881
+USER	Scenerio1	START	1670221784944
+REQUEST		AllResources	1670221784944	1670221784946	KO	j.n.ConnectException: Connection refused
+REQUEST		SpecificResource	1670221784948	1670221784950	KO	j.n.ConnectException: Connection refused
+REQUEST		ReserveResource	1670221784963	1670221784964	KO	j.n.ConnectException: Connection refused
+REQUEST		GetAllotment	1670221784983	1670221784984	KO	j.n.ConnectException: Connection refused
+USER	Scenerio1	END	1670221784986
+USER	Scenerio1	START	1670221785044
+REQUEST		AllResources	1670221785044	1670221785047	KO	j.n.ConnectException: Connection refused
+REQUEST		ReserveResource	1670221785050	1670221785051	KO	j.n.ConnectException: Connection refused
+REQUEST		SpecificResource	1670221785049	1670221785051	KO	j.n.ConnectException: Connection refused
+REQUEST		GetAllotment	1670221785088	1670221785090	KO	j.n.ConnectException: Connection refused
+USER	Scenerio1	END	1670221785091
+USER	Scenerio1	START	1670221785144
+REQUEST		AllResources	1670221785144	1670221785147	KO	j.n.ConnectException: Connection refused
+REQUEST		SpecificResource	1670221785151	1670221785152	KO	j.n.ConnectException: Connection refused
+REQUEST		ReserveResource	1670221785153	1670221785155	KO	j.n.ConnectException: Connection refused
+REQUEST		GetAllotment	1670221785184	1670221785186	KO	j.n.ConnectException: Connection refused
+USER	Scenerio1	END	1670221785187
+USER	Scenerio1	START	1670221785244
+REQUEST		AllResources	1670221785244	1670221785246	KO	j.n.ConnectException: Connection refused
+REQUEST		SpecificResource	1670221785247	1670221785250	KO	j.n.ConnectException: Connection refused
+REQUEST		ReserveResource	1670221785254	1670221785257	KO	j.n.ConnectException: Connection refused
+REQUEST		GetAllotment	1670221785293	1670221785294	KO	j.n.ConnectException: Connection refused
+USER	Scenerio1	END	1670221785295
+USER	Scenerio1	START	1670221785343
+REQUEST		AllResources	1670221785344	1670221785345	KO	j.n.ConnectException: Connection refused
+REQUEST		SpecificResource	1670221785346	1670221785347	KO	j.n.ConnectException: Connection refused
+REQUEST		ReserveResource	1670221785362	1670221785363	KO	j.n.ConnectException: Connection refused
+REQUEST		GetAllotment	1670221785389	1670221785390	KO	j.n.ConnectException: Connection refused
+USER	Scenerio1	END	1670221785390
+USER	Scenerio1	START	1670221785443
+REQUEST		AllResources	1670221785444	1670221785446	KO	j.n.ConnectException: Connection refused
+REQUEST		SpecificResource	1670221785449	1670221785450	KO	j.n.ConnectException: Connection refused
+REQUEST		ReserveResource	1670221785462	1670221785465	KO	j.n.ConnectException: Connection refused
+REQUEST		GetAllotment	1670221785489	1670221785491	KO	j.n.ConnectException: Connection refused
+USER	Scenerio1	END	1670221785491
+USER	Scenerio1	START	1670221785544
+REQUEST		AllResources	1670221785544	1670221785556	KO	j.n.ConnectException: Connection refused
+REQUEST		ReserveResource	1670221785564	1670221785566	KO	j.n.ConnectException: Connection refused
+REQUEST		SpecificResource	1670221785570	1670221785571	KO	j.n.ConnectException: Connection refused
+REQUEST		GetAllotment	1670221785586	1670221785587	KO	j.n.ConnectException: Connection refused
+USER	Scenerio1	END	1670221785587
+USER	Scenerio1	START	1670221785640
+REQUEST		AllResources	1670221785640	1670221785642	KO	j.n.ConnectException: Connection refused
+REQUEST		SpecificResource	1670221785651	1670221785652	KO	j.n.ConnectException: Connection refused
+REQUEST		ReserveResource	1670221785655	1670221785655	KO	j.n.ConnectException: Connection refused
+REQUEST		GetAllotment	1670221785668	1670221785672	KO	j.n.ConnectException: Connection refused
+USER	Scenerio1	END	1670221785673
+USER	Scenerio1	START	1670221785745
+REQUEST		SpecificResource	1670221785745	1670221785747	KO	j.n.ConnectException: Connection refused
+REQUEST		AllResources	1670221785745	1670221785748	KO	j.n.ConnectException: Connection refused
+REQUEST		ReserveResource	1670221785756	1670221785761	KO	j.n.ConnectException: Connection refused
+REQUEST		GetAllotment	1670221785756	1670221785761	KO	j.n.ConnectException: Connection refused
+USER	Scenerio1	END	1670221785762
+USER	Scenerio1	START	1670221785845
+REQUEST		AllResources	1670221785846	1670221785847	KO	j.n.ConnectException: Connection refused
+REQUEST		SpecificResource	1670221785846	1670221785847	KO	j.n.ConnectException: Connection refused
+REQUEST		ReserveResource	1670221785851	1670221785852	KO	j.n.ConnectException: Connection refused
+REQUEST		GetAllotment	1670221785868	1670221785870	KO	j.n.ConnectException: Connection refused
+USER	Scenerio1	END	1670221785870
+USER	Scenerio1	START	1670221785947
+REQUEST		AllResources	1670221785947	1670221785949	KO	j.n.ConnectException: Connection refused
+REQUEST		SpecificResource	1670221785950	1670221785950	KO	j.n.ConnectException: Connection refused
+REQUEST		ReserveResource	1670221785952	1670221785953	KO	j.n.ConnectException: Connection refused
+REQUEST		GetAllotment	1670221785967	1670221785968	KO	j.n.ConnectException: Connection refused
+USER	Scenerio1	END	1670221785968
+USER	Scenerio1	START	1670221786046
+REQUEST		AllResources	1670221786046	1670221786049	KO	j.n.ConnectException: Connection refused
+REQUEST		SpecificResource	1670221786050	1670221786051	KO	j.n.ConnectException: Connection refused
+REQUEST		GetAllotment	1670221786053	1670221786054	KO	j.n.ConnectException: Connection refused
+REQUEST		ReserveResource	1670221786053	1670221786054	KO	j.n.ConnectException: Connection refused
+USER	Scenerio1	END	1670221786055
+USER	Scenerio1	START	1670221786145
+REQUEST		AllResources	1670221786146	1670221786147	KO	j.n.ConnectException: Connection refused
+REQUEST		SpecificResource	1670221786150	1670221786151	KO	j.n.ConnectException: Connection refused
+REQUEST		ReserveResource	1670221786156	1670221786157	KO	j.n.ConnectException: Connection refused
+REQUEST		GetAllotment	1670221786158	1670221786159	KO	j.n.ConnectException: Connection refused
+USER	Scenerio1	END	1670221786159
+USER	Scenerio1	START	1670221786247
+REQUEST		AllResources	1670221786248	1670221786251	KO	j.n.ConnectException: Connection refused
+REQUEST		SpecificResource	1670221786251	1670221786252	KO	j.n.ConnectException: Connection refused
+REQUEST		ReserveResource	1670221786251	1670221786253	KO	j.n.ConnectException: Connection refused
+REQUEST		GetAllotment	1670221786259	1670221786263	KO	j.n.ConnectException: Connection refused
+USER	Scenerio1	END	1670221786264
+USER	Scenerio1	START	1670221786346
+REQUEST		ReserveResource	1670221786349	1670221786356	KO	j.n.ConnectException: Connection refused
+REQUEST		SpecificResource	1670221786349	1670221786356	KO	j.n.ConnectException: Connection refused
+REQUEST		AllResources	1670221786349	1670221786356	KO	j.n.ConnectException: Connection refused
+REQUEST		GetAllotment	1670221786367	1670221786368	KO	j.n.ConnectException: Connection refused
+USER	Scenerio1	END	1670221786369
+USER	Scenerio1	START	1670221786446
+REQUEST		AllResources	1670221786447	1670221786449	KO	j.n.ConnectException: Connection refused
+REQUEST		SpecificResource	1670221786450	1670221786451	KO	j.n.ConnectException: Connection refused
+REQUEST		ReserveResource	1670221786452	1670221786453	KO	j.n.ConnectException: Connection refused
+REQUEST		GetAllotment	1670221786468	1670221786469	KO	j.n.ConnectException: Connection refused
+USER	Scenerio1	END	1670221786469
+USER	Scenerio1	START	1670221786546
+REQUEST		AllResources	1670221786546	1670221786547	KO	j.n.ConnectException: Connection refused
+REQUEST		SpecificResource	1670221786560	1670221786562	KO	j.n.ConnectException: Connection refused
+REQUEST		GetAllotment	1670221786569	1670221786570	KO	j.n.ConnectException: Connection refused
+USER	Scenerio1	END	1670221786570
+REQUEST		ReserveResource	1670221786573	1670221786573	KO	j.n.ConnectException: Connection refused
+USER	Scenerio1	START	1670221786640
+REQUEST		AllResources	1670221786640	1670221786641	KO	j.n.ConnectException: Connection refused
+REQUEST		SpecificResource	1670221786643	1670221786644	KO	j.n.ConnectException: Connection refused
+REQUEST		ReserveResource	1670221786654	1670221786655	KO	j.n.ConnectException: Connection refused
+REQUEST		GetAllotment	1670221786658	1670221786659	KO	j.n.ConnectException: Connection refused
+USER	Scenerio1	END	1670221786659
+USER	Scenerio1	START	1670221786740
+REQUEST		AllResources	1670221786741	1670221786744	KO	j.n.ConnectException: Connection refused
+REQUEST		SpecificResource	1670221786747	1670221786748	KO	j.n.ConnectException: Connection refused
+REQUEST		ReserveResource	1670221786750	1670221786751	KO	j.n.ConnectException: Connection refused
+REQUEST		GetAllotment	1670221786764	1670221786765	KO	j.n.ConnectException: Connection refused
+USER	Scenerio1	END	1670221786766
+USER	Scenerio1	START	1670221786840
+REQUEST		AllResources	1670221786841	1670221786842	KO	j.n.ConnectException: Connection refused
+REQUEST		SpecificResource	1670221786854	1670221786857	KO	j.n.ConnectException: Connection refused
+REQUEST		ReserveResource	1670221786855	1670221786857	KO	j.n.ConnectException: Connection refused
+REQUEST		GetAllotment	1670221786857	1670221786858	KO	j.n.ConnectException: Connection refused
+USER	Scenerio1	END	1670221786859
+USER	Scenerio1	START	1670221786941
+REQUEST		AllResources	1670221786941	1670221786943	KO	j.n.ConnectException: Connection refused
+REQUEST		SpecificResource	1670221786952	1670221786953	KO	j.n.ConnectException: Connection refused
+REQUEST		ReserveResource	1670221786953	1670221786953	KO	j.n.ConnectException: Connection refused
+REQUEST		GetAllotment	1670221786955	1670221786956	KO	j.n.ConnectException: Connection refused
+USER	Scenerio1	END	1670221786956
+USER	Scenerio1	START	1670221787040
+REQUEST		AllResources	1670221787040	1670221787042	KO	j.n.ConnectException: Connection refused
+REQUEST		SpecificResource	1670221787049	1670221787051	KO	j.n.ConnectException: Connection refused
+REQUEST		ReserveResource	1670221787054	1670221787055	KO	j.n.ConnectException: Connection refused
+REQUEST		GetAllotment	1670221787077	1670221787085	KO	j.n.ConnectException: Connection refused
+USER	Scenerio1	END	1670221787089
+USER	Scenerio1	START	1670221787141
+REQUEST		AllResources	1670221787141	1670221787143	KO	j.n.ConnectException: Connection refused
+REQUEST		SpecificResource	1670221787148	1670221787149	KO	j.n.ConnectException: Connection refused
+REQUEST		ReserveResource	1670221787154	1670221787156	KO	j.n.ConnectException: Connection refused
+REQUEST		GetAllotment	1670221787160	1670221787161	KO	j.n.ConnectException: Connection refused
+USER	Scenerio1	END	1670221787161
+USER	Scenerio1	START	1670221787240
+REQUEST		AllResources	1670221787241	1670221787242	KO	j.n.ConnectException: Connection refused
+REQUEST		SpecificResource	1670221787249	1670221787250	KO	j.n.ConnectException: Connection refused
+REQUEST		ReserveResource	1670221787254	1670221787255	KO	j.n.ConnectException: Connection refused
+REQUEST		GetAllotment	1670221787255	1670221787255	KO	j.n.ConnectException: Connection refused
+USER	Scenerio1	END	1670221787256
+USER	Scenerio1	START	1670221787344
+REQUEST		AllResources	1670221787345	1670221787346	KO	j.n.ConnectException: Connection refused
+REQUEST		SpecificResource	1670221787348	1670221787348	KO	j.n.ConnectException: Connection refused
+REQUEST		GetAllotment	1670221787358	1670221787359	KO	j.n.ConnectException: Connection refused
+REQUEST		ReserveResource	1670221787358	1670221787359	KO	j.n.ConnectException: Connection refused
+USER	Scenerio1	END	1670221787360
+USER	Scenerio1	START	1670221787440
+REQUEST		AllResources	1670221787440	1670221787442	KO	j.n.ConnectException: Connection refused
+REQUEST		SpecificResource	1670221787453	1670221787455	KO	j.n.ConnectException: Connection refused
+REQUEST		ReserveResource	1670221787453	1670221787455	KO	j.n.ConnectException: Connection refused
+REQUEST		GetAllotment	1670221787455	1670221787457	KO	j.n.ConnectException: Connection refused
+USER	Scenerio1	END	1670221787457
+USER	Scenerio1	START	1670221787540
+REQUEST		AllResources	1670221787541	1670221787543	KO	j.n.ConnectException: Connection refused
+REQUEST		SpecificResource	1670221787557	1670221787559	KO	j.n.ConnectException: Connection refused
+REQUEST		ReserveResource	1670221787564	1670221787565	KO	j.n.ConnectException: Connection refused
+REQUEST		GetAllotment	1670221787575	1670221787576	KO	j.n.ConnectException: Connection refused
+USER	Scenerio1	END	1670221787577
+USER	Scenerio1	START	1670221787639
+REQUEST		AllResources	1670221787639	1670221787642	KO	j.n.ConnectException: Connection refused
+REQUEST		SpecificResource	1670221787645	1670221787646	KO	j.n.ConnectException: Connection refused
+REQUEST		ReserveResource	1670221787646	1670221787647	KO	j.n.ConnectException: Connection refused
+REQUEST		GetAllotment	1670221787657	1670221787659	KO	j.n.ConnectException: Connection refused
+USER	Scenerio1	END	1670221787660
+USER	Scenerio1	START	1670221787740
+REQUEST		AllResources	1670221787741	1670221787743	KO	j.n.ConnectException: Connection refused
+REQUEST		ReserveResource	1670221787751	1670221787752	KO	j.n.ConnectException: Connection refused
+REQUEST		GetAllotment	1670221787755	1670221787756	KO	j.n.ConnectException: Connection refused
+USER	Scenerio1	END	1670221787757
+REQUEST		SpecificResource	1670221787757	1670221787757	KO	j.n.ConnectException: Connection refused
+USER	Scenerio1	START	1670221787840
+REQUEST		AllResources	1670221787840	1670221787844	KO	j.n.ConnectException: Connection refused
+REQUEST		SpecificResource	1670221787846	1670221787851	KO	j.n.ConnectException: Connection refused
+REQUEST		GetAllotment	1670221787860	1670221787862	KO	j.n.ConnectException: Connection refused
+REQUEST		ReserveResource	1670221787861	1670221787862	KO	j.n.ConnectException: Connection refused
+USER	Scenerio1	END	1670221787863
+USER	Scenerio1	START	1670221787940
+REQUEST		AllResources	1670221787943	1670221787950	KO	j.n.ConnectException: Connection refused
+REQUEST		SpecificResource	1670221787953	1670221787958	KO	j.n.ConnectException: Connection refused
+REQUEST		GetAllotment	1670221787957	1670221787960	KO	j.n.ConnectException: Connection refused
+REQUEST		ReserveResource	1670221787958	1670221787961	KO	j.n.ConnectException: Connection refused
+USER	Scenerio1	END	1670221787962
+USER	Scenerio1	START	1670221788040
+REQUEST		AllResources	1670221788040	1670221788042	KO	j.n.ConnectException: Connection refused
+REQUEST		SpecificResource	1670221788049	1670221788051	KO	j.n.ConnectException: Connection refused
+REQUEST		ReserveResource	1670221788053	1670221788054	KO	j.n.ConnectException: Connection refused
+REQUEST		GetAllotment	1670221788056	1670221788057	KO	j.n.ConnectException: Connection refused
+USER	Scenerio1	END	1670221788058
+USER	Scenerio1	START	1670221788140
+REQUEST		AllResources	1670221788141	1670221788145	KO	j.n.ConnectException: Connection refused
+REQUEST		SpecificResource	1670221788148	1670221788149	KO	j.n.ConnectException: Connection refused
+REQUEST		ReserveResource	1670221788150	1670221788151	KO	j.n.ConnectException: Connection refused
+REQUEST		GetAllotment	1670221788158	1670221788159	KO	j.n.ConnectException: Connection refused
+USER	Scenerio1	END	1670221788159
+USER	Scenerio1	START	1670221788240
+REQUEST		AllResources	1670221788240	1670221788241	KO	j.n.ConnectException: Connection refused
+REQUEST		SpecificResource	1670221788248	1670221788249	KO	j.n.ConnectException: Connection refused
+REQUEST		ReserveResource	1670221788252	1670221788253	KO	j.n.ConnectException: Connection refused
+REQUEST		GetAllotment	1670221788256	1670221788257	KO	j.n.ConnectException: Connection refused
+USER	Scenerio1	END	1670221788257
+USER	Scenerio1	START	1670221788340
+REQUEST		AllResources	1670221788341	1670221788342	KO	j.n.ConnectException: Connection refused
+REQUEST		SpecificResource	1670221788347	1670221788348	KO	j.n.ConnectException: Connection refused
+REQUEST		ReserveResource	1670221788350	1670221788351	KO	j.n.ConnectException: Connection refused
+REQUEST		GetAllotment	1670221788364	1670221788366	KO	j.n.ConnectException: Connection refused
+USER	Scenerio1	END	1670221788366
+USER	Scenerio1	START	1670221788443
+REQUEST		AllResources	1670221788444	1670221788445	KO	j.n.ConnectException: Connection refused
+REQUEST		SpecificResource	1670221788449	1670221788450	KO	j.n.ConnectException: Connection refused
+REQUEST		ReserveResource	1670221788457	1670221788457	KO	j.n.ConnectException: Connection refused
+REQUEST		GetAllotment	1670221788458	1670221788459	KO	j.n.ConnectException: Connection refused
+USER	Scenerio1	END	1670221788459
+REQUEST		SpecificResource	1670221788561	1670221788562	KO	j.n.ConnectException: Connection refused
+REQUEST		ReserveResource	1670221788561	1670221788562	KO	j.n.ConnectException: Connection refused
+REQUEST		GetAllotment	1670221788567	1670221788568	KO	j.n.ConnectException: Connection refused
+USER	Scenerio1	END	1670221788568
+REQUEST		SpecificResource	1670221788645	1670221788646	KO	j.n.ConnectException: Connection refused
+REQUEST		GetAllotment	1670221788649	1670221788650	KO	j.n.ConnectException: Connection refused
+REQUEST		ReserveResource	1670221788649	1670221788650	KO	j.n.ConnectException: Connection refused
+USER	Scenerio1	END	1670221788650
+REQUEST		SpecificResource	1670221788751	1670221788752	KO	j.n.ConnectException: Connection refused
+REQUEST		GetAllotment	1670221788755	1670221788756	KO	j.n.ConnectException: Connection refused
+USER	Scenerio1	END	1670221788756
+REQUEST		ReserveResource	1670221788761	1670221788762	KO	j.n.ConnectException: Connection refused
+REQUEST		SpecificResource	1670221788853	1670221788854	KO	j.n.ConnectException: Connection refused
+REQUEST		ReserveResource	1670221788855	1670221788856	KO	j.n.ConnectException: Connection refused
+REQUEST		GetAllotment	1670221788866	1670221788867	KO	j.n.ConnectException: Connection refused
+USER	Scenerio1	END	1670221788867
+REQUEST		SpecificResource	1670221788951	1670221788953	KO	j.n.ConnectException: Connection refused
+REQUEST		GetAllotment	1670221788964	1670221788967	KO	j.n.ConnectException: Connection refused
+REQUEST		ReserveResource	1670221788964	1670221788967	KO	j.n.ConnectException: Connection refused
+USER	Scenerio1	END	1670221788968
+REQUEST		SpecificResource	1670221789052	1670221789056	KO	j.n.ConnectException: Connection refused
+REQUEST		ReserveResource	1670221789055	1670221789057	KO	j.n.ConnectException: Connection refused
+REQUEST		GetAllotment	1670221789056	1670221789058	KO	j.n.ConnectException: Connection refused
+USER	Scenerio1	END	1670221789058
+REQUEST		SpecificResource	1670221789150	1670221789152	KO	j.n.ConnectException: Connection refused
+REQUEST		ReserveResource	1670221789151	1670221789152	KO	j.n.ConnectException: Connection refused
+REQUEST		GetAllotment	1670221789153	1670221789154	KO	j.n.ConnectException: Connection refused
+USER	Scenerio1	END	1670221789154
+REQUEST		ReserveResource	1670221789252	1670221789254	KO	j.n.ConnectException: Connection refused
+REQUEST		SpecificResource	1670221789253	1670221789255	KO	j.n.ConnectException: Connection refused
+REQUEST		GetAllotment	1670221789255	1670221789256	KO	j.n.ConnectException: Connection refused
+USER	Scenerio1	END	1670221789257
+REQUEST		ReserveResource	1670221789350	1670221789352	KO	j.n.ConnectException: Connection refused
+REQUEST		GetAllotment	1670221789353	1670221789354	KO	j.n.ConnectException: Connection refused
+USER	Scenerio1	END	1670221789355
+REQUEST		SpecificResource	1670221789359	1670221789360	KO	j.n.ConnectException: Connection refused
+REQUEST		SpecificResource	1670221789451	1670221789453	KO	j.n.ConnectException: Connection refused
+REQUEST		ReserveResource	1670221789453	1670221789454	KO	j.n.ConnectException: Connection refused
+REQUEST		GetAllotment	1670221789460	1670221789461	KO	j.n.ConnectException: Connection refused
+USER	Scenerio1	END	1670221789461
+REQUEST		SpecificResource	1670221789549	1670221789551	KO	j.n.ConnectException: Connection refused
+REQUEST		ReserveResource	1670221789564	1670221789566	KO	j.n.ConnectException: Connection refused
+REQUEST		GetAllotment	1670221789565	1670221789566	KO	j.n.ConnectException: Connection refused
+USER	Scenerio1	END	1670221789567
+REQUEST		SpecificResource	1670221789644	1670221789646	KO	j.n.ConnectException: Connection refused
+REQUEST		ReserveResource	1670221789651	1670221789652	KO	j.n.ConnectException: Connection refused
+REQUEST		GetAllotment	1670221789653	1670221789654	KO	j.n.ConnectException: Connection refused
+USER	Scenerio1	END	1670221789654
+REQUEST		SpecificResource	1670221789747	1670221789749	KO	j.n.ConnectException: Connection refused
+REQUEST		ReserveResource	1670221789754	1670221789755	KO	j.n.ConnectException: Connection refused
+REQUEST		GetAllotment	1670221789764	1670221789765	KO	j.n.ConnectException: Connection refused
+USER	Scenerio1	END	1670221789766
+REQUEST		SpecificResource	1670221789845	1670221789860	KO	j.n.ConnectException: Connection refused
+REQUEST		ReserveResource	1670221789864	1670221789891	KO	j.n.ConnectException: Connection refused
+REQUEST		GetAllotment	1670221789864	1670221789891	KO	j.n.ConnectException: Connection refused
+USER	Scenerio1	END	1670221789892
+REQUEST		SpecificResource	1670221789946	1670221789950	KO	j.n.ConnectException: Connection refused
+REQUEST		ReserveResource	1670221789955	1670221789956	KO	j.n.ConnectException: Connection refused
+REQUEST		GetAllotment	1670221789970	1670221789971	KO	j.n.ConnectException: Connection refused
+USER	Scenerio1	END	1670221789971
+REQUEST		SpecificResource	1670221790045	1670221790046	KO	j.n.ConnectException: Connection refused
+REQUEST		ReserveResource	1670221790058	1670221790059	KO	j.n.ConnectException: Connection refused
+REQUEST		GetAllotment	1670221790060	1670221790060	KO	j.n.ConnectException: Connection refused
+USER	Scenerio1	END	1670221790061
+REQUEST		SpecificResource	1670221790146	1670221790151	KO	j.n.ConnectException: Connection refused
+REQUEST		GetAllotment	1670221790155	1670221790157	KO	j.n.ConnectException: Connection refused
+REQUEST		ReserveResource	1670221790155	1670221790157	KO	j.n.ConnectException: Connection refused
+USER	Scenerio1	END	1670221790157
+REQUEST		SpecificResource	1670221790244	1670221790246	KO	j.n.ConnectException: Connection refused
+REQUEST		GetAllotment	1670221790257	1670221790258	KO	j.n.ConnectException: Connection refused
+REQUEST		ReserveResource	1670221790258	1670221790259	KO	j.n.ConnectException: Connection refused
+USER	Scenerio1	END	1670221790260
+REQUEST		SpecificResource	1670221790349	1670221790352	KO	j.n.ConnectException: Connection refused
+REQUEST		GetAllotment	1670221790354	1670221790355	KO	j.n.ConnectException: Connection refused
+USER	Scenerio1	END	1670221790356
+REQUEST		ReserveResource	1670221790362	1670221790364	KO	j.n.ConnectException: Connection refused
+REQUEST		SpecificResource	1670221790445	1670221790449	KO	j.n.ConnectException: Connection refused
+REQUEST		ReserveResource	1670221790454	1670221790456	KO	j.n.ConnectException: Connection refused
+REQUEST		GetAllotment	1670221790456	1670221790457	KO	j.n.ConnectException: Connection refused
+USER	Scenerio1	END	1670221790457
+REQUEST		SpecificResource	1670221790546	1670221790548	KO	j.n.ConnectException: Connection refused
+REQUEST		ReserveResource	1670221790554	1670221790557	KO	j.n.ConnectException: Connection refused
+REQUEST		GetAllotment	1670221790569	1670221790570	KO	j.n.ConnectException: Connection refused
+USER	Scenerio1	END	1670221790571
+REQUEST		SpecificResource	1670221790645	1670221790646	KO	j.n.ConnectException: Connection refused
+REQUEST		ReserveResource	1670221790648	1670221790652	KO	j.n.ConnectException: Connection refused
+REQUEST		GetAllotment	1670221790655	1670221790656	KO	j.n.ConnectException: Connection refused
+USER	Scenerio1	END	1670221790656
+REQUEST		SpecificResource	1670221790745	1670221790748	KO	j.n.ConnectException: Connection refused
+REQUEST		ReserveResource	1670221790751	1670221790752	KO	j.n.ConnectException: Connection refused
+REQUEST		GetAllotment	1670221790757	1670221790758	KO	j.n.ConnectException: Connection refused
+USER	Scenerio1	END	1670221790758
+REQUEST		SpecificResource	1670221790847	1670221790848	KO	j.n.ConnectException: Connection refused
+REQUEST		ReserveResource	1670221790866	1670221790867	KO	j.n.ConnectException: Connection refused
+REQUEST		GetAllotment	1670221790895	1670221790896	KO	j.n.ConnectException: Connection refused
+USER	Scenerio1	END	1670221790896
+REQUEST		ReserveResource	1670221790956	1670221790958	KO	j.n.ConnectException: Connection refused
+REQUEST		SpecificResource	1670221790956	1670221790958	KO	j.n.ConnectException: Connection refused
+REQUEST		GetAllotment	1670221790958	1670221790958	KO	j.n.ConnectException: Connection refused
+USER	Scenerio1	END	1670221790959
+REQUEST		SpecificResource	1670221791045	1670221791046	KO	j.n.ConnectException: Connection refused
+REQUEST		ReserveResource	1670221791049	1670221791051	KO	j.n.ConnectException: Connection refused
+REQUEST		GetAllotment	1670221791061	1670221791063	KO	j.n.ConnectException: Connection refused
+USER	Scenerio1	END	1670221791063
+REQUEST		SpecificResource	1670221791148	1670221791151	KO	j.n.ConnectException: Connection refused
+REQUEST		ReserveResource	1670221791154	1670221791155	KO	j.n.ConnectException: Connection refused
+REQUEST		GetAllotment	1670221791158	1670221791159	KO	j.n.ConnectException: Connection refused
+USER	Scenerio1	END	1670221791160
+REQUEST		SpecificResource	1670221791244	1670221791245	KO	j.n.ConnectException: Connection refused
+REQUEST		ReserveResource	1670221791248	1670221791249	KO	j.n.ConnectException: Connection refused
+REQUEST		GetAllotment	1670221791262	1670221791263	KO	j.n.ConnectException: Connection refused
+USER	Scenerio1	END	1670221791263
+REQUEST		SpecificResource	1670221791345	1670221791346	KO	j.n.ConnectException: Connection refused
+REQUEST		ReserveResource	1670221791354	1670221791356	KO	j.n.ConnectException: Connection refused
+REQUEST		GetAllotment	1670221791373	1670221791376	KO	j.n.ConnectException: Connection refused
+USER	Scenerio1	END	1670221791377
+REQUEST		SpecificResource	1670221791448	1670221791452	KO	j.n.ConnectException: Connection refused
+REQUEST		ReserveResource	1670221791452	1670221791453	KO	j.n.ConnectException: Connection refused
+REQUEST		GetAllotment	1670221791458	1670221791459	KO	j.n.ConnectException: Connection refused
+USER	Scenerio1	END	1670221791460
+REQUEST		ReserveResource	1670221791550	1670221791554	KO	j.n.ConnectException: Connection refused
+REQUEST		GetAllotment	1670221791560	1670221791562	KO	j.n.ConnectException: Connection refused
+USER	Scenerio1	END	1670221791562
+REQUEST		ReserveResource	1670221791648	1670221791653	KO	j.n.ConnectException: Connection refused
+REQUEST		GetAllotment	1670221791655	1670221791656	KO	j.n.ConnectException: Connection refused
+USER	Scenerio1	END	1670221791657
+REQUEST		ReserveResource	1670221791751	1670221791756	KO	j.n.ConnectException: Connection refused
+REQUEST		GetAllotment	1670221791754	1670221791756	KO	j.n.ConnectException: Connection refused
+USER	Scenerio1	END	1670221791756
+REQUEST		ReserveResource	1670221791851	1670221791855	KO	j.n.ConnectException: Connection refused
+REQUEST		GetAllotment	1670221791877	1670221791879	KO	j.n.ConnectException: Connection refused
+USER	Scenerio1	END	1670221791879
+REQUEST		GetAllotment	1670221791963	1670221791965	KO	j.n.ConnectException: Connection refused
+REQUEST		ReserveResource	1670221791963	1670221791965	KO	j.n.ConnectException: Connection refused
+USER	Scenerio1	END	1670221791965
+REQUEST		ReserveResource	1670221792050	1670221792052	KO	j.n.ConnectException: Connection refused
+REQUEST		GetAllotment	1670221792054	1670221792055	KO	j.n.ConnectException: Connection refused
+USER	Scenerio1	END	1670221792055
+REQUEST		GetAllotment	1670221792156	1670221792158	KO	j.n.ConnectException: Connection refused
+USER	Scenerio1	END	1670221792159
+REQUEST		ReserveResource	1670221792156	1670221792159	KO	j.n.ConnectException: Connection refused
+REQUEST		ReserveResource	1670221792250	1670221792271	KO	j.n.ConnectException: Connection refused
+REQUEST		GetAllotment	1670221792264	1670221792275	KO	j.n.ConnectException: Connection refused
+USER	Scenerio1	END	1670221792277
+REQUEST		ReserveResource	1670221792351	1670221792353	KO	j.n.ConnectException: Connection refused
+REQUEST		GetAllotment	1670221792358	1670221792359	KO	j.n.ConnectException: Connection refused
+USER	Scenerio1	END	1670221792360
+REQUEST		GetAllotment	1670221792455	1670221792456	KO	j.n.ConnectException: Connection refused
+REQUEST		ReserveResource	1670221792455	1670221792456	KO	j.n.ConnectException: Connection refused
+USER	Scenerio1	END	1670221792458
+REQUEST		GetAllotment	1670221792557	1670221792558	KO	j.n.ConnectException: Connection refused
+USER	Scenerio1	END	1670221792558
+REQUEST		GetAllotment	1670221792656	1670221792660	KO	j.n.ConnectException: Connection refused
+USER	Scenerio1	END	1670221792661
+REQUEST		GetAllotment	1670221792758	1670221792762	KO	j.n.ConnectException: Connection refused
+USER	Scenerio1	END	1670221792763
+REQUEST		GetAllotment	1670221792857	1670221792859	KO	j.n.ConnectException: Connection refused
+USER	Scenerio1	END	1670221792859
+REQUEST		GetAllotment	1670221792968	1670221792970	KO	j.n.ConnectException: Connection refused
+USER	Scenerio1	END	1670221792970
+REQUEST		GetAllotment	1670221793054	1670221793055	KO	j.n.ConnectException: Connection refused
+USER	Scenerio1	END	1670221793056
+REQUEST		GetAllotment	1670221793166	1670221793169	KO	j.n.ConnectException: Connection refused
+USER	Scenerio1	END	1670221793171
+REQUEST		GetAllotment	1670221793273	1670221793275	KO	j.n.ConnectException: Connection refused
+USER	Scenerio1	END	1670221793276
+REQUEST		GetAllotment	1670221793357	1670221793361	KO	j.n.ConnectException: Connection refused
+USER	Scenerio1	END	1670221793362
+REQUEST		GetAllotment	1670221793459	1670221793461	KO	j.n.ConnectException: Connection refused
+USER	Scenerio1	END	1670221793461
